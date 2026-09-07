@@ -39,10 +39,9 @@ class Program
         string sizeLabel = pages > 300 ? "Long Book" : "Short Book";
         #endregion
 
-        #region q4
-string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
-for(int i=0; i<books.Length; i++)
-    Console.WriteLine(books[i]+"," + (i+1) );
+        #region q4 string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+        for(int i=0; i<books.Length; i++)
+            Console.WriteLine(books[i]+"," + (i+1) );
         #endregion
 
         #region q5
@@ -61,62 +60,7 @@ for(int i=0; i<books.Length; i++)
         int x = 0;
         do
         {
-Console.WriteLine("Checking book..");
-            x++;
-        }while (x<=2);
-
-        #endregion
-
-        #region q7
-
-        foreach (var m in books)
-        {
-            Console.WriteLine(m);
-            
-        }
-
-        #endregion
-
-        #region q8
-
-        for (int i = 0; i < books.Length; i++)
-        {
-            Console.WriteLine(books[i]);
-
-            if (books[i] == "Refactoring")
-            {
-                break;
-            }
-        }
-
-        #endregion
-
-        #region q9
-
-        for (int i = 0; i < books.Length; i++)
-        {
-            if (books[i] == "The Pragmatic Programmer")
-            {
-                continue;
-            }
-
-            Console.WriteLine(books[i]);
-        }
-
-        #endregion
-
-        #region Q10
-        static void PrintFirstBook(string[] books)
-        {
-            if (books.Length == 0)
-            {
-                return;
-            }
-
-            Console.WriteLine(books[0]);
-        }
-        PrintFirstBook(books);
-        #endregion
+Console.WriteLin
     }
     
 }
