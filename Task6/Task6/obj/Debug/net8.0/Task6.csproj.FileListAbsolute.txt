@@ -1,0 +1,15 @@
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.AssemblyInfoInputs.cache
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.AssemblyInfo.cs
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.csproj.CoreCompileInputs.cache
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.sourcelink.json
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/bin/Debug/net8.0/Task6
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/bin/Debug/net8.0/Task6.deps.json
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/bin/Debug/net8.0/Task6.runtimeconfig.json
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/bin/Debug/net8.0/Task6.dll
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/bin/Debug/net8.0/Task6.pdb
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.dll
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/refint/Task6.dll
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.pdb
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/Task6.genruntimeconfig.cache
+/Users/omarnagi/Desktop/repos/tasks/Task6/Task6/obj/Debug/net8.0/ref/Task6.dll

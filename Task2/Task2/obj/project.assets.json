@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omarnagi/Desktop/tasks/Task2/Task2/Task2.csproj",
+      "projectUniqueName": "/Users/omarnagi/Desktop/repos/tasks/Task2/Task2/Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "/Users/omarnagi/Desktop/tasks/Task2/Task2/Task2.csproj",
+      "projectPath": "/Users/omarnagi/Desktop/repos/tasks/Task2/Task2/Task2.csproj",
       "packagesPath": "/Users/omarnagi/.nuget/packages/",
-      "outputPath": "/Users/omarnagi/Desktop/tasks/Task2/Task2/obj/",
+      "outputPath": "/Users/omarnagi/Desktop/repos/tasks/Task2/Task2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/omarnagi/.nuget/NuGet/NuGet.Config"
